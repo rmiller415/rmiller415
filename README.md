@@ -3,6 +3,8 @@
 I am an **educator and scientist** with a M.A. in Physics (Computational Biophysics) and a B.S. in Mathematical Physics.
 Currently, I am transitioning to a **Data Science and Machine Learning** role. I am building my skills by developing projects of all shapes and sizes that showcase my coding ability, analytical mind, and background in math and science.
 
+Some of my core skills are: Python, data science & machine learning, communication of insights, and analysis of complex systems.
+
 My name is Richard. I am interested in data science, problem-solving, educational theory, and skill development. I am currently a science teacher in Denver, CO. In my free time, I enjoy hiking, camping, and expanding my knowledge of all things science and math.
 
 ---
@@ -16,7 +18,7 @@ Outside of working: Exploring the outdoors, gardening, and making others laugh
 
 ## Featured Projects:
 **Thyroid Cancer Detection:** ML model to classify nodules as benign vs malignant
-**Red Wine Qualty Prediction:** Predicting the quality rating for a selection of red wines.
+**Red Wine Quality Prediction:** Predicting the quality rating for a selection of red wines.
 **Fruit Fly Gastrulation Tracking:** Using videos of fruit fly embryos to track the movement and shape of embryonic cells.
 
 ## Currently Learning:
