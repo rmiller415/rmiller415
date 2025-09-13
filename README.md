@@ -1,4 +1,4 @@
-# Hello and welcome to my profile!  
+# Hello and welcome to my profile!    
 I am an **educator and scientist** with a M.A. in Physics (Computational Biophysics) and a B.S. in Mathematical Physics.
 Currently, I am transitioning to a **Data Science and Machine Learning** role. I am building my skills by developing projects of all shapes and sizes that showcase my coding ability, analytical mind, and background in math and science.  
 Some of my core skills are: Python, data science & machine learning, communication of insights, and analysis of complex systems.  
